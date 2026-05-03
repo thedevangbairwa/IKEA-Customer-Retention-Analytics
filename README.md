@@ -119,11 +119,11 @@ IKEA-Customer-Retention-Analytics/
 │   ├── Loyalty_Program.csv
 │   └── Store_Locations.csv
 └── Screenshots/
-├── Final_Page_1_Overview.png
-├── Final_Page_2_Promotions_Loyalty.png
-├── Final_Page_3_Store_Performance.png
-├── Final_Page_4_Customer_Value.png
-└── Final_Recommendations_Insights.png
+    ├── Final_Page_1_Overview.png
+    ├── Final_Page_2_Promotions_Loyalty.png
+    ├── Final_Page_3_Store_Performance.png
+    ├── Final_Page_4_Customer_Value.png
+    └── Final_Recommendations_Insights.png
 ```
 
 ---
