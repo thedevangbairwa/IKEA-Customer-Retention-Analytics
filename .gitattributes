@@ -1,2 +1,50 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# =========================
+# Operating System Files
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Editor / IDE Backup Files
+# =========================
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# =========================
+# Power BI Temporary Files
+# =========================
+*.pbix.tmp
+*.pbix.cache
+*.pbix.lock
+
+# =========================
+# Log Files
+# =========================
+*.log
+
+# =========================
+# Python / Jupyter (Future-proof)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# =========================
+# Node / Other (Safe ignore)
+# =========================
+node_modules/
+
+# =========================
+# GitHub Desktop
+# =========================
+*.orig
+``

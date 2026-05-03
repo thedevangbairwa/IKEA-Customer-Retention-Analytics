@@ -56,22 +56,34 @@ This project includes a **4‑page executive summary dashboard**, designed for b
 - Churn and CLV comparison by region
 - Highlights high‑risk, high‑value regions like Liverpool and Birmingham
 
+![Customer Overview](Screenshots/Final_Page_1_Overview.png)
+
 ### 2. Promotions & Loyalty Impact
 - Promotion usage and average purchase comparison
 - Loyalty points earned vs redeemed
 - Churn by loyalty tier (Platinum shows highest churn)
+
+![Promotions and Loyalty](Screenshots/Final_Page_2_Promotions_Loyalty.png)
 
 ### 3. Store & Region Insights
 - Store type performance (Superstore vs Express)
 - Retention trend by store opening year
 - Regional churn analysis (London highest)
 
+![Store Performance](Screenshots/Final_Page_3_Store_Performance.png)
+
 ### 4. Customer Value Segments (CLV)
 - High, Medium, and Low value customer segmentation
 - CLV vs days since last purchase
 - Identification of high‑value but inactive customers
 
-A separate **Recommendations & Key Insights** page converts analysis into clear business actions.
+![Customer Value](Screenshots/Final_Page_4_Customer_Value.png)
+
+
+### Final Recommendations and Key Insights
+This page summarizes overall findings and converts analysis into clear business actions.
+
+![Recommendations](Screenshots/Final_Recommendations_Insights.png)
 
 ---
 
@@ -107,24 +119,12 @@ IKEA-Customer-Retention-Analytics/
 │   ├── Loyalty_Program.csv
 │   └── Store_Locations.csv
 └── Screenshots/
-├── 1_Overview.png
-├── 2_Promotions_Loyalty.png
-├── 3_Store_Performance.png
-├── 4_Customer_Value.png
+├── Final_Page_1_Overview.png
+├── Final_Page_2_Promotions_Loyalty.png
+├── Final_Page_3_Store_Performance.png
+├── Final_Page_4_Customer_Value.png
 └── Final_Recommendations_Insights.png
 ```
----
-
-## Video Walkthrough
-A short video explaining the dashboards, insights, and recommendations:
-
-https://www.loom.com/share/46a8532e46174891b69267f5608e7b93
-
----
-
-## Author
-**Dheeraj Marmat**  
-Aspiring Data Analyst | Power BI | Business Analytics  
 
 ---
 
@@ -134,3 +134,17 @@ This project demonstrates:
 - Strong DAX and data modeling skills
 - Ability to convert data into **business decisions**
 - Clear storytelling for non‑technical stakeholders
+
+---
+
+## Video Walkthrough
+A short video explaining the dashboards, insights, and business recommendations:
+
+https://www.loom.com/share/46a8532e46174891b69267f5608e7b93
+
+---
+
+## Author
+
+**Dheeraj Marmat**  
+Data Analyst Portfolio Project
