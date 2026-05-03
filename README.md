@@ -92,7 +92,7 @@ A separate **Recommendations & Key Insights** page converts analysis into clear 
 ---
 
 ## Repository Structure
-
+```
 IKEA-Customer-Retention-Analytics/
 │
 ├── README.md
@@ -112,7 +112,7 @@ IKEA-Customer-Retention-Analytics/
 ├── 3_Store_Performance.png
 ├── 4_Customer_Value.png
 └── Final_Recommendations_Insights.png
-
+```
 ---
 
 ## Video Walkthrough
